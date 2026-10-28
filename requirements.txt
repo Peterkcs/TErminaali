@@ -1,0 +1,4 @@
+anthropic
+yfinance
+feedparser
+python-dotenv
