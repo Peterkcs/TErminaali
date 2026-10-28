@@ -1,6 +1,6 @@
 # Market Brief Agent
 
-Bloomberg Terminal (TOP <GO>) -tyylinen päiväraportti: markkinadata (yfinance) + uutiset (RSS), suodatus Claude Sonnet 5.5:llä.
+Bloomberg Terminal (`TOP <GO>`) -tyylinen päiväraportti: markkinadata (yfinance) + uutiset (RSS), suodatus Claude Sonnet 5.5:llä.
 
 ## Asennus
 
